@@ -1,6 +1,6 @@
 ![logo](https://github.com/Avesh6754/Avesh6754/blob/eea43d610637d5bd0df5b8f3a518bde138135567/Blog-Banner-9.jpg)
-<h1 align="center">Hi 👋, I'm Avesh kumar Prajapati</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h1 align="center">Hi 👋, I'm Avesh Prajapati</h1>
+<h3 align="center">FLUTTER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avesh6754&label=Profile%20views&color=0e75b6&style=flat" alt="avesh6754" /> </p>
 
