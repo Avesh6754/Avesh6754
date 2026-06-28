@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Awesh%20Prajapati&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Avesh%20Prajapati&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 ```dart
 class Developer {
 
-  final String name = "Awesh Prajapati";
+  final String name = "Avesh Prajapati";
 
   final String role = "Flutter Developer";
 
@@ -76,15 +76,15 @@ class Developer {
 
 <p align="center">
 
-<a href="https://linkedin.com/in/Awesh-prajapati-574276256">
+<a href="https://linkedin.com/in/Avesh-prajapati-574276256">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/Awesh_0510">
+<a href="https://www.instagram.com/Avesh_0510">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="mailto:Aweshprajapati150@gmail.com">
+<a href="mailto:Aveshprajapati150@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -96,9 +96,9 @@ class Developer {
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awesh6754&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avesh6754&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesh6754&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avesh6754&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -108,7 +108,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Awesh6754&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avesh6754&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -118,7 +118,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awesh6754&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avesh6754&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -128,7 +128,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Awesh6754&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Avesh6754&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
@@ -138,7 +138,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Awesh6754/Awesh6754/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Avesh6754/Avesh6754/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -148,7 +148,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Awesh6754&label=Visitors&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Avesh6754&label=Visitors&color=00F7FF&style=for-the-badge"/>
 
 </p>
 
@@ -168,15 +168,15 @@ class Developer {
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awesh6754&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avesh6754&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awesh6754&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avesh6754&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awesh6754&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avesh6754&theme=tokyonight"/>
 
 </p>
 
