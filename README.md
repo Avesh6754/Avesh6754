@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Avesh%20Prajapati&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Awesh%20Prajapati&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 ```dart
 class Developer {
 
-  final String name = "Avesh Prajapati";
+  final String name = "Awesh Prajapati";
 
   final String role = "Flutter Developer";
 
@@ -84,7 +84,7 @@ class Developer {
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="mailto:Aveshprajapati150@gmail.com">
+<a href="mailto:Aweshprajapati.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
